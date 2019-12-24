@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: https://global.americanexpress.com/rewards?us_nu=dd&inav=footer_mr");
 die();
 ?>
